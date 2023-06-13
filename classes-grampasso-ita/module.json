@@ -1,0 +1,32 @@
+{
+    "name": "classes-grampasso-ita",
+    "title": "Grampasso's Homebrew Book ITA",
+    "description": "A module containing the exported Grampasso's Homebrew Book ITA compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "Grampasso",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "Classes",
+            "module": "classes-grampasso-ita",
+            "path": "packs/inferno-dantes-guide-to-hell-classes-1686556469150.db",
+            "name": "inferno-dantes-guide-to-hell-classes-1686556469150",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://grampasso-inferno-dantes-guide-to-hell.eu.forge-vtt.com/compendium2module/classes-grampasso-ita/module.json",
+    "download": "https://grampasso-inferno-dantes-guide-to-hell.eu.forge-vtt.com/compendium2module/classes-grampasso-ita/module-zip.txt"
+}
